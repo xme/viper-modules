@@ -26,7 +26,7 @@ viper sample.exe > a1000 -s
 
 viper sample.exe > a1000 -c
 [*] Classification
- - Threat statusi : malicious
+ - Threat status : malicious
  - Threat name   : Win32.Trojan.Fareit dw eldorado
  - Trust factor  : 5
  - Threat level  : 2
