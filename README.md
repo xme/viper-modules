@@ -14,7 +14,6 @@ From an open session:
 ```viper sample.exe > a1000 -s
 [*] Successfully submitted file to A1000, task ID: 393846
 viper sample.exe > a1000 -c
-[*] DEBUG: ec78ea5bd0e33ae40e53a02f972221bc66399a89 200
 [*] Classification
  - Threat statusi : malicious
  - Threat name   : Win32.Trojan.Fareit dw eldorado
